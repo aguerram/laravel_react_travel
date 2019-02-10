@@ -7,9 +7,4 @@
 5. enjoy !
 
 **PFE** Projet.
-
-```java
-    if(PFE.getNote()>16)
-    {
-        System.out.println("Trés bonne");
-    }
+#By : **Mostafa AGUERRAM** *ESTE*
