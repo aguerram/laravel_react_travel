@@ -1,0 +1,17 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+
+.btn, input, .dropdown-menu{
+  border-radius: 0 !important;
+} 
+
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import './style.scss';
+

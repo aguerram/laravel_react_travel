@@ -1,0 +1,9 @@
+#carouselBody{
+    .carousel-inner{
+        max-height: calc(100vh - 152px);
+    }
+}
+#map-view{
+    width: 100%;
+    height: 400px;
+}
