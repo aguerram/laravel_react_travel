@@ -1,6 +1,6 @@
 # laravel_react_travel
 
-1- git clone https://github.com/aguerram/laravel_react_travel.git
+1- git clone https://github.com/aguerram/laravel_react_travel.git .
 2- cd laravel_react_travel
 3- npm install
 4- composer install
